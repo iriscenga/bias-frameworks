@@ -7,13 +7,11 @@ The default datasets supported by the AIF 360 toolkit are listed below. Please n
 
    Source: <a href="https://archive.ics.uci.edu/ml/datasets/adult">https://archive.ics.uci.edu/ml/datasets/adult</a>
 
-   Download instructions: See [raw/adult/README.md](raw/adult/README.md)
-
 
 2. ProPublica Recidivism/COMPAS 
 
    Source: <a href="https://github.com/propublica/compas-analysis">https://github.com/propublica/compas-analysis</a>
 
-   Download instructions: See [raw/compas/README.md](raw/compas/README.md)
+
 
 
