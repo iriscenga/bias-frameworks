@@ -112,7 +112,9 @@ We used Python **3.10.6** for this project. Please ensure you have this version 
 
 ### Running the Notebooks
 
-The notebooks are intended to be run in Jupyter Notebook. The fairness dashboards, in particular, are designed to work within this environment. If you do not have Jupyter Notebook installed, you can install it using pip:
+The notebooks are intended to be run in Jupyter Notebook. The fairness dashboards, in particular, are designed to work within this environment, allowing for interactive exploration and analysis of fairness metrics and mitigation strategies. While the code works in any environment, using Jupyter Notebook provides an enhanced interactive experience.
+
+If you do not have Jupyter Notebook installed, you can install it using pip:
 
 ```bash
 pip install jupyter
