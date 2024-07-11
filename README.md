@@ -108,6 +108,16 @@ In order to run the notebooks, you need to install the following dependencies:
 pip install raiwidgets matplotlib numpy seaborn pandas sklearn lightgbm
 ```
 
+We used Python **3.10.6** for this project. Please ensure you have this version installed to avoid any compatibility issues.
+
+### Running the Notebooks
+
+The notebooks are intended to be run in Jupyter Notebook. The fairness dashboards, in particular, are designed to work within this environment. If you do not have Jupyter Notebook installed, you can install it using pip:
+
+```bash
+pip install jupyter
+```
+
 ## Contributing
 
 We welcome contributions to this project. Please open an issue or submit a pull request on GitHub.
