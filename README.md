@@ -2,6 +2,8 @@
 
 This project aims to evaluate the effectiveness of AI Fairness 360 (AIF360) and Fairlearn frameworks in detecting and mitigating bias in machine learning models trained on the COMPAS and Adult Income datasets. The project includes training and assessing Logistic Regression, Random Forest, and LightGBM models for both performance and fairness. Additionally, various bias mitigation techniques, such as reweighing, are applied and evaluated to ensure unbiased predictions.
 
+### Github Link: https://github.com/iriscenga/bias-frameworks
+
 ## Project Description
 
 The main objective of this project is to evaluate the effectiveness of the AIF360 and Fairlearn frameworks in detecting and mitigating bias in machine learning models. We focus on the following aspects:
